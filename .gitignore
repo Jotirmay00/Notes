@@ -1,0 +1,34 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python bytecode cache
+__pycache__/
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the Django database file
+db.sqlite3
+
+# Ignore static files directory (if managed by Django)
+/static/
+
+# Ignore media files directory (if managed by Django)
+/media/
+
+# Ignore secret settings file (if separate)
+# Make sure not to commit sensitive information
+# such as passwords or API keys
+secret_settings.py
+
+# Ignore environment variables file (if separate)
+# Make sure not to commit sensitive information
+.env
+
+# Ignore IDE or editor-specific files
+.idea/
+.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
