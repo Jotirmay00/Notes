@@ -58,4 +58,4 @@ Unit tests are written to ensure the functionality and integrity of the API endp
 Feel free to use Django or Flask for the implementation.
 
 ---
-By [Your Name]
+By Jotirmay Manik
