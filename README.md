@@ -53,9 +53,5 @@ Unit tests are written to ensure the functionality and integrity of the API endp
 - Proper authentication and authorization mechanisms are in place.
 - Updates to existing shared notes are carefully handled to ensure data integrity.
 
-**Note:** Focus is primarily on backend functionality; the UI is not required. Automated testing is encouraged for bonus points.
-
-Feel free to use Django or Flask for the implementation.
-
 ---
 By Jotirmay Manik
