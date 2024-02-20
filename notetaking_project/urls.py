@@ -21,5 +21,5 @@ from notes.views import UserRegistrationView, UserLoginView
 urlpatterns = [
     path('signup/', UserRegistrationView.as_view(), name='user-signup'),
     path('login/', UserLoginView.as_view(), name='user-login'),
-    path('api/', include('notes.urls')),
+    path('', include('notes.urls')),
 ]
